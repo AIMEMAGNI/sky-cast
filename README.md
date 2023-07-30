@@ -1,3 +1,3 @@
 # sky-cast
 
-[Weather app demo](https://aimemagni.github.io/sky-cast/)
+[Sky Cast demo](https://aimemagni.github.io/sky-cast/)

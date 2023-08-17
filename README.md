@@ -34,7 +34,6 @@ MyWeather is a user-friendly weather app that provides real-time weather forecas
 
 ## Future Enhancements
 
-- Add more weather details, such as wind speed and visibility.
 - Implement icons or images to represent different weather conditions.
 - Enhance the styling and layout for a more polished look.
 

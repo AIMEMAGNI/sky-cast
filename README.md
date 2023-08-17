@@ -43,4 +43,4 @@ Contributions are welcome! If you'd like to make improvements, please fork the r
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [aimemagnifique01@gmail.com].
+For any inquiries or feedback, please reach out to aimemagnifique01@gmail.com.

@@ -30,7 +30,7 @@ MyWeather is a user-friendly weather app that provides real-time weather forecas
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](/Screenshot.jpg)
 
 ## Future Enhancements
 

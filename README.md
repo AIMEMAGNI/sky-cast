@@ -9,11 +9,11 @@ MyWeather is a user-friendly weather app that provides real-time weather forecas
 
 ## Features
 
-- **Location-Based: Users can input a city name or select a location to retrieve weather information.
+- Location-Based: Users can input a city name or select a location to retrieve weather information.
 
-- **Current Conditions: Display the current weather conditions, including temperature, humidity, and a brief description.
+- Current Conditions: Display the current weather conditions, including temperature, humidity, and a brief description.
 
-- **Responsive Design: The app is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
+- Responsive Design: The app is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
   
 
 ## Technologies Used

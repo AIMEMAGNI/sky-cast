@@ -5,7 +5,7 @@
 
 ## Description
 
-MyWeather is a user-friendly weather app that provides real-time weather forecasts and conditions for locations around the world. With a clean and intuitive interface, users can quickly access accurate weather information to plan their activities accordingly.
+Sky Cast is a user-friendly weather app that provides real-time weather forecasts and conditions for locations around the world. With a clean and intuitive interface, users can quickly access accurate weather information to plan their activities accordingly.
 
 ## Features
 

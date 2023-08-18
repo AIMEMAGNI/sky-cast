@@ -32,6 +32,10 @@ Sky Cast is a user-friendly weather app that provides real-time weather forecast
 
 ![Screenshot 1](/Screenshot.jpg)
 
+## Video
+
+[App Video](https://www.loom.com/share/380a1b05608747808d45323a6ed27549?sid=74ccbf3b-1134-4bd0-8a91-88bcea6840db)
+
 ## Future Enhancements
 
 - Implement icons or images to represent different weather conditions.
